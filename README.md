@@ -1,7 +1,3 @@
-To make your **DNA-Based Encryption System** README file cooler, cleaner, and more professional *while keeping that fun and engaging tone*, you can reformat it using clear headings, emojis for visual structure, markdown styling, and a smooth flow of information. Here's a refreshed version you can copy-paste into your README.md:
-
----
-
 # 🧬 DNA-Based Encryption System
 
 ## 🔍 1. Introduction
