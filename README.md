@@ -1,8 +1,7 @@
 #  DNA-Based Encryption System
 
 **DNA-Based Encryption** is a cryptographic method that translates regular text into DNA sequences (A, T, C, G).  
-It applies *mutations* to enhance security and then decodes it back to readable text.  
-Yes — encryption with biology. Sounds cool, right?
+It applies *mutations* to enhance security and then decodes it back to readable text. Sounds cool, right?
 
 ### Objectives  
 -  Develop a secure encryption system using principles inspired by biological DNA.  
