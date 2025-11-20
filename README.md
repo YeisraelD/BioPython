@@ -24,5 +24,9 @@ It applies *mutations* to enhance security and then decodes it back to readable 
 
 ### Security Considerations  
 - Mutation randomness = extra layer of protection  
-- Brute-force attacks become impractical  
-- Even with partial data, decoding is non-trivial
+- Brute force attacks become impractical  
+- Even with partial data, decoding is non trivial, i think that so
+### not done yet.
+
+### Hope i wont loss my mind and learn a lot through this . . .
+  
